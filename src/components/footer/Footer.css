@@ -1,0 +1,11 @@
+footer {
+  background-color: #eee;
+}
+.linkTitle {
+  color: black;
+}
+.linkTitle:hover {
+  color: blue;
+  cursor: pointer;
+  text-decoration: none;
+}
